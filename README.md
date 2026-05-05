@@ -2,4 +2,5 @@
 This is my first HackClub project. It will be an LED Chaser PCB heart to give my girlfriend
 
 All files are above!
-<img width="1889" height="914" alt="Price screenshot" src="https://github.com/user-attachments/assets/c5327d5f-2b18-4327-bcf3-d549c8a1f97a" />
+<img width="826" height="577" alt="3-D View" src="https://github.com/user-attachments/assets/a340b473-e557-46ad-979f-19673ad2c43b" />
+
